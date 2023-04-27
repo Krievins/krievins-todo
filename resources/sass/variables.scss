@@ -1,0 +1,64 @@
+// Colors
+
+$min-cream: #EFF7F6;
+$space-cadet: #2D3047;
+$lightslate-gray: #77878B;
+
+
+// Theme Colors
+
+$bck-color-1: #FDFDFF;
+$bck-color-2: #cecece;
+
+$table-heading-color: rgb(202, 202, 202);
+
+
+$box-shadow-1: #f0f0f0;
+
+
+$white: white;
+$color-black: black;
+
+// Link Colors
+
+$basic-link-color: rgb(150, 150, 150);
+
+
+// Transitions
+
+$basic-transition: all 250ms ease-in-out;
+
+
+// Border Color
+
+$border-color-light: rgb(230, 230, 230);
+
+
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+$font-main: 'Montserrat', sans-serif;
+
+// STYLE FOR HTML ELEMENTS 
+
+th {
+    background-color: $table-heading-color;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:hover {background-color: $basic-link-color;}
+
+th, td {
+    text-align: left    ;
+    line-height: 20px;
+    font-size: 14px;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.hidden {
+
+    visibility: hidden;
+
+}

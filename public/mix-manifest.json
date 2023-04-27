@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/register/index.css": "/css/register/index.css",
+    "/css/Todo/index.css": "/css/Todo/index.css",
+    "/css/Todo/create.css": "/css/Todo/create.css",
+    "/css/Todo/edit.css": "/css/Todo/edit.css",
+    "/css/login/index.css": "/css/login/index.css"
+}
